@@ -1,8 +1,8 @@
 # hello-world
 New 
 Repository creates project
-Maaster file has branchs 
-branchs are features ect to be added and usually tested before adding to master. 
-and commit changes. 
+<br>Master file has branchs</br> 
+<br>branchs are features ect to be added and usually tested before adding to master.</br> 
+<br>and commit changes.</br> 
 ++++++++++++++++
-+add the changes to the master file. 
+<br>+add the changes to the master file.</br> 
